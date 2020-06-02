@@ -1,0 +1,16 @@
+.nav {
+  background-color: #ff1744;
+  height: 36px;
+}
+.nav-item {
+  padding: 12px 30px;
+  font-size: 16px;
+  font-weight: bold;
+  /*margin-top: -12px;*/
+}
+.nav-item:hover {
+  color: blue;
+}
+.nav-item.is-active {
+  text-decoration: none;
+}

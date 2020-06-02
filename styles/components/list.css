@@ -1,0 +1,18 @@
+.list {
+  list-style: disc;
+  padding-inline-start: 25px;
+}
+
+.list-cherry {
+  list-style: decimal;
+  padding-inline-start: 15px;
+}
+
+.list-none {
+  list-style: none;
+  padding-inline-start: 0px;
+}
+
+.list-margin {
+  margin-bottom: 0px;
+}

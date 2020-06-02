@@ -1,0 +1,20 @@
+.table {
+  width: 690px;
+  height: 290px;
+
+  text-align: center;
+  border-radius: 5px;
+  background-color: #262d34;
+  border-spacing: 0px;
+}
+
+.table-title {
+  background-color: #ff1744;
+  border: 1px #d8dbde solid;
+  font-weight: bold;
+}
+
+td {
+  border: 1px solid #d8dbde;
+  min-width: 30px;
+}
